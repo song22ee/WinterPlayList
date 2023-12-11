@@ -1,0 +1,110 @@
+
+      body {
+          margin: 0;
+          background-image: url("https://i.pinimg.com/564x/fe/44/64/fe44648ae1d4d44bb893eca07323a9c9.jpg");
+          font-family: 'Sunflower', sans-serif;
+        }
+    
+      a:hover{
+        color: rgb(255, 255, 255);
+
+      }
+      a:active{color: #000;}
+      a {text-decoration: none;}
+      a{color:rgb(20, 0, 107)}
+    
+      .headerLeft{
+        float: left;
+        width:40%;
+        height:100px;
+        line-height: 100px;
+        font-size: 70px;
+      }
+
+      .headerRight{
+      float: left;
+      width:60%;
+      height:100px;
+      line-height: 100px;
+    }
+      .container {
+        width: 1320px;
+        height: 700px;
+        margin: 30px auto;
+
+      }
+  
+      .my-header {
+        width: 100%;
+        height: 100px;
+        background-color: #b30000;
+        float: left;
+        color: white;
+        font-size: 64px;
+        font-family: 'Sunflower', sans-serif;
+      }
+  
+      .my-side {
+        width: 470px;
+        height: 500px;
+        background-color:#336600 ;
+        color: white;
+        float: left;
+        overflow: auto;
+        font-family: 'Sunflower', sans-serif;
+      }
+  
+      .sideDiv {
+        width: 90px;
+        height: 115px;
+        background-color:#99a88a ;
+        float: left;
+        margin: 50px 13px;
+        background-size: 80% auto;
+        background-repeat: no-repeat;
+        background-position: center;
+        font-family: 'Sunflower', sans-serif;
+      }
+  
+      .spMenu{
+        background-color:hsla(0, 0%, 50%, 0.185);
+        float: left;
+        margin: 10px 13px;
+        width: 445px;
+        height: 100px;
+        font-family: 'Sunflower', sans-serif;
+  
+      }
+  
+  
+      .my-main {
+        float: left;
+        width: 850px;
+        height: 500px;
+        overflow: auto;
+        font-family: 'Sunflower', sans-serif;
+      }
+  
+      .my-footer {
+        width: 100%;
+        height: 100px;
+        background-color: #b30000;
+        text-align: center;
+        float: left;
+      }
+  
+   
+  
+    .audio{
+      float:right;
+    }
+
+    .music_name{
+      float:right;
+    }
+  
+    #iframeId
+    {
+      width: 100%;
+      height: 100%;
+    }

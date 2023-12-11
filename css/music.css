@@ -1,0 +1,121 @@
+
+    body {
+      margin: 0;
+      background-image: url("https://i.pinimg.com/originals/1c/95/0a/1c950a3aa0c8169978c1cf738aef85ec.jpg");
+    }
+
+    a:hover{color: rgb(255, 255, 255);}
+    a:active{color: #000;}
+    a {text-decoration: none;}
+    a{color:rgb(212, 125, 12)}
+
+    .container {
+      width: 1320px;
+      height: 800px;
+      margin: 30px auto;
+    }
+
+    .my-header {
+      width: 100%;
+      height: 100px;
+      background-color: #9ac0c7;
+      color: rgb(255, 255, 255);
+      font-size: 64px;
+      font-family: 'Sunflower', sans-serif;
+      float: left;
+    }
+
+    .headerLeft{
+      float: left;
+      width:35%;
+      height:100px;
+      line-height: 100px;
+      font-size: 70px;
+    }
+
+    .headerRight{
+      float: left;
+      width:65%;
+      height:100px;
+      line-height: 100px;
+    }
+
+    .my-side {
+      width: 470px;
+      height: 600px;
+      background-color:#678085 ;
+      color: white;
+      float: left;
+      overflow: auto;
+      font-family: 'Sunflower', sans-serif;
+    }
+
+    .sideDiv {
+      width: 90px;
+      height: 115px;
+      background-color:#6780850c  ;
+      float: left;
+      margin: 50px 13px;
+      background-size: 80% auto;
+      background-repeat: no-repeat;
+      background-position: center;
+      font-family: 'Patrick Hand', cursive;
+    }
+
+    .spMenu{
+      background-color: hsla(0, 0%, 50%, 0.185);
+      float: left;
+      margin: 10px 13px;
+      width: 445px;
+      height: 100px;
+      color:white;
+
+    }
+
+    
+
+    .my-main {
+      float: left;
+      width: 850px;
+      height: 600px;
+      color:rgb(0, 0, 0);
+      overflow: auto;
+    }
+
+    .my-footer {
+      width: 100%;
+      height: 100px;
+      background-color: #b30000;
+      text-align: center;
+      float: left;
+    }
+
+  
+
+  .audio{
+    float:right;
+  }
+  .music_name{
+    float:right;
+  }
+
+  #iframeId
+  {
+    width: 100%;
+    height: 100%;
+  }
+
+  .title {
+    font-family: 'Sunflower', sans-serif;
+    font-size:60px;
+    margin: 0 20px;
+    text-align: center;
+  }
+
+  #title_left{
+    color: rgba(0, 0, 255, 0.555);
+  }
+
+  #title_right{
+    color:rgb(217, 255, 0);
+  }

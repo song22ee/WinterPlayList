@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(0, 0, 0, 0.322);
+    font-family: 'Sunflower', sans-serif;
+}
+
+.box {
+    width: 540px;
+    height: 440px;
+    margin:280px 200px 0 140px;
+    text-align: center;
+    color: white;
+    font-size: 32px;
+}

@@ -1,0 +1,11 @@
+body{
+    font-size: 32px;
+    color: rgb(13, 12, 94);
+    font-family: 'Sunflower', sans-serif;
+}
+
+.box{
+    width: 800px;
+    height: 300px;
+    margin: 200px 0 0 30px ;
+}
